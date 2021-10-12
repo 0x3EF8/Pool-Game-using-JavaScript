@@ -17,7 +17,8 @@ The Pool Game was created in a HTML web browser that use JavaScript to enhance t
 * Ai Control
 * This project contains an AI control that can extend the difficulty of the game.
 
-The Pool Game was developed using JavaScript language. I hope that this system can help you to what you are looking for. For more updates and tutorials just kindly visit this site. Enjoy coding!!
+The Pool Game was developed using JavaScript language. I hope that this system can help you to what you are looking for. For more updates and tutorials just kindly visit my Gitgub Account Github.com/IamLevi .
+# Enjoy coding!!
 
 ![img](./image/1.png)
 ![img](./image/2.png)
